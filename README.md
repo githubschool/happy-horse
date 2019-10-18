@@ -73,3 +73,4 @@ After you have completed this course, you are probably wondering where to go fro
 ---
 
 Release 2.1 test
+Release 2.0 test
