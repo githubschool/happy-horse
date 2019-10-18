@@ -10,3 +10,6 @@
   
   ## Steps
   - Make the tacos
+    - Add avocado
+    - Add salsa
+    - Eat it
