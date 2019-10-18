@@ -4,6 +4,8 @@
   - Tortilla Shells
   - Shredded Beed
   - Black Beans
+  - tomato
+  - sour cream
   
   
   
